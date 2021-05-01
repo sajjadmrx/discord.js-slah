@@ -1,0 +1,26 @@
+{
+  "name": "discord.js-slah",
+  "version": "1.0.0",
+  "description": "A simple way to interact and manage discord slash-commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjadmrx/discord.js-slah.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "discord.js": "https://github.com/MatteZ02/discord.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjadmrx/discord.js-slah/issues"
+  },
+  "homepage": "https://github.com/sajjadmrx/discord.js-slah#readme"
+}
