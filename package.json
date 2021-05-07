@@ -1,6 +1,6 @@
 {
   "name": "discord.js-slah",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A simple way to interact and manage discord slash-commands",
   "main": "src/index.js",
   "scripts": {
